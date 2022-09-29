@@ -16,5 +16,5 @@ de la base de datos.
 Dentro de la carpeta public es el qque envia los archivos al frontend.
 Utilicé WebPack para traducir el codigo y ser una especie de nodemon pero el frontend. 
 
-https://raw.githubusercontent.com/miradacsc/Task_Crud_Mern/master/CRUD%20MERN.jpg
+
 
